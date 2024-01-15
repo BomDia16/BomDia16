@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Artur Oliveira 😁
 
  <div>
    <a href="https://github.com/BomDia16">
@@ -15,11 +15,12 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Caso queira os meus contatos, aqui estão as redes sociais:
  
 <div> 
   <a href="https://instagram.com/artur_bom_dia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "arturbarbosaoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "www.linkedin.com/in/artur-oliveira-1319342a3"><img src="https://img.shields.io/badge/-Linkedin-%0e76a8?style=for-the-badge&logo=linkedin&logoColor=darkblue&color=blue" target="_blank"></a>
  
   ![Snake animation](https://github.com/BomDia16/BomDia16/blob/output/github-contribution-grid-snake.svg)
 
