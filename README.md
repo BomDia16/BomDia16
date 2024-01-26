@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Artur Oliveira 😁
+## Bem-vindo(a) ao perfil de Artur Oliveira 😁
 
  <div>
    <a href="https://github.com/BomDia16">
